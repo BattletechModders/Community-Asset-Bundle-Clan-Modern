@@ -4,8 +4,6 @@ This document will detail the various contributors to this collection of communi
 
 Colobos/Crackfoxx
 Models:
-Bane
-Stone Rhino
 Cougar XR
 
 Lt. Shade
@@ -17,43 +15,28 @@ Osteon
 Septicemia
 Hyperion
 Medusa
-Pulverizer
-311 Pulverizer
 
 GentlePayload:
 Models:
 Hellhound
-Minsk (with import by Transient74)
 
 Ion Raptor
 Models:
 Onager
 Phantom
-Kingfisher
 Grendel
-Locust IIC
-Glass Spider
 Turkina
-Ion Bane
 
 SmallRobotsInAContainer/Napes
 Models:
-Scylla/Storm Giant
-Conjurer
 Reptar
 
 SirMortimer and Transient
 Model and Import:
 Dark Crow
-Fox
 Jade Phoenix
 Shrike
-Howler
 Tiburon
-
-FrostRaptor
-Models:
-Elemental
 
 Piranha Games, Inc.
 Models:
@@ -66,53 +49,20 @@ Cougar
 Dire Wolf
 Ebon Jaguar
 Executioner
-Gargoyle
-Hellbringer
 Hellfire
-Highlander IIC
-HunchbackIIC
 Huntsman
-Ice Ferret
-Incubus
 Jenner IIC
-Kit Fox
 Kodiak
 Linebacker
-Mad Cat
 Mad Cat Mk II
-Mad Dog
-Marauder IIC
-Mist Lynx
 Night Gyr
-Nova
-Nova CatOrion IIC
+Nova Cat
 Piranha
-Rifleman IIC
 Shadow Cat
-Stormcrow
-Summoner
 Sun Spider
-Supernova
-Vapor Eagle
-Viper
-Warhammer IIC
-Warhawk
-Lupus
-Dasher
-
-Southern Mountain
-Model:
-Naga
-
-Transient74
-Models:
-Stag
-331 Stag
 
 Momma Leli and Transient74
 Models:
-Mercury II
-331 Mercury II
 Flamberg
 
 GP, IonRapter, JuodasVarnas, Transient74
