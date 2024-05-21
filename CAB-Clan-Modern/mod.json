@@ -2223,7 +2223,21 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/canis/chrPrfComp_canis_simgame.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_canisbase-001.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/canis/chrPrfComp_canis_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" }
 	
     ]
 }
